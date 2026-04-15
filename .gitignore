@@ -11,4 +11,7 @@
 *.synctex.gz
 *.toc
 .DS_Store
+<<<<<<< HEAD
 .DS_Store
+=======
+>>>>>>> main
